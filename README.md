@@ -1,9 +1,6 @@
-# Power-BI
-<br/>
+# Power-BI-Portfolio
+This repository is a curated collection of Power BI reports and datasets demonstrating my skills and capabilities in data visualization and analysis. While pull requests are not currently accepted, I encourage you to provide feedback or comments to support your own learning and contribute to the broader Power BI community.
 
-## Why did I create this repository?
-
- This repository presents some dashboards and analysis made using the Power BI software for various purposes.
   ## What is Power BI?
  
  [Power BI](https://powerbi.microsoft.com/en-us/) is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. 
